@@ -1,16 +1,6 @@
-# project2
+# Przestrzenie barw #2 
 
-A new Flutter project.
+To zadanie zawiera kostkę RGB w 3D napisaną w pełni we Flutterze
 
-## Getting Started
+https://github.com/user-attachments/assets/20789bba-5ea1-436d-841f-68ab73db9d19
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
